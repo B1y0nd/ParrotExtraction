@@ -23,4 +23,4 @@ All results will be found in the out directory.
 All results include bootloader(bootloader.bin), bootparam(bootparams.txt), installer(installer.plf), kernel(main_boot.plf->zImage->kernel.gz), filesystem(filesystem).  
 # Test  
 Testing on firmwares for all different models of drones from the paroot manufacturer, with a success rate of 100% extraction.  
-The testing dataset is names dataset.  
+The testing dataset is named parrot.  
